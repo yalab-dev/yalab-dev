@@ -2,7 +2,7 @@
 
 
 <h2 align="center">About Us</h2>
-This account serves the devops team of [prof. Yaniv Assaf's Lab](https://yanivassaflab.com/), dedicated to develop next-gen MRI tools to unlock brain plasticity.
+This account serves the devops team of <a href="https://yanivassaflab.com/">prof. Yaniv Assaf's Lab</a>, dedicated to develop next-gen MRI tools to unlock brain plasticity.
 
 <h2 align="center">Projects</h2>
 
